@@ -1,0 +1,9 @@
+{
+  "name": "Your Story",
+  "description": "A high-fidelity social networking app featuring real-time chat, discovery, and a home feed with native Bengali Unicode support and Gemini-powered smart interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
